@@ -1,0 +1,19 @@
+.content .content-header{
+    height: 65px;
+    color: white;
+    background-color: #17212B;
+}
+.content .message{
+    color:white;
+    background-color: #2B5278;
+    border-radius: 10px;
+    margin: 5px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+.content .message span{
+    font-size: 14px;
+    float: right;
+    font-weight: bold;
+    margin-top: 5px;
+}
